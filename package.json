@@ -1,0 +1,40 @@
+{
+  "name": "nei-music",
+  "version": "1.2.1",
+  "description": "An cool MusicBot that allows you play songs",
+  "main": "index.js",
+  "author": "@yDevs",
+  "private": true,
+  "homepage": "https://nei-music.glitch.me",
+  "engines": {
+    "node": "12.0.0"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.2.7",
+    "figlet": "^1.5.0",
+    "imgur": "^0.3.1",
+    "instagram-web-api": "^2.2.2",
+    "jimp": "^0.16.1",
+    "lyrics-finder": "^21.3.2",
+    "moment": "^2.27.0",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.0",
+    "opgg-scrape": "^1.0.3",
+    "opusscript": "^0.0.7",
+    "quick.db": "^7.1.1",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9",
+    "simple-youtube-api": "^5.2.1",
+    "soundcloud-downloader": "^0.1.5",
+    "twemoji-parser": "^13.0.0",
+    "ytdl-core": "^3.2.2",
+    "ytdl-core-discord": "^1.2.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
