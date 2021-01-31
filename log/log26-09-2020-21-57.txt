@@ -1,0 +1,2 @@
+Your app is listening on port 54364
+Bot foi iniciado com sucesso

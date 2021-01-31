@@ -1,10 +1,10 @@
 const Discord = require("discord.js");
 const config = require('../json/config.json')
-const description = require('../json/comandos.json')
+const description = require('../json/comandos.json');
 
 module.exports = {
   name: "help",
-  aliases: ["h"],
+  aliases: ["h", "ajuda"],
   description: "Display all commands and descriptions",
   async execute(msg, args, client) {
     if (!args[0]) {
@@ -14,11 +14,12 @@ module.exports = {
         .setColor(config.COLOR)
         .addFields(
           { name: `Moderador`, value: `\`${config.PREFIX}help moderador\``, inline: true },
-          { name: `Games`, value: `\`${config.PREFIX}help games\``, inline: true },
+          { name: `Level`, value: `\`${config.PREFIX}help level\``, inline: true },
           { name: `Diversos`, value: `\`${config.PREFIX}help diversos\``, inline: true },
           { name: `Musica`, value: `\`${config.PREFIX}help musica\``, inline: true },
           { name: `RPG`, value: `\`${config.PREFIX}help rpg\``, inline: true },
-          { name: `Suporte`, value: `\`${config.PREFIX}help suporte\``, inline: true }
+          { name: `Suporte`, value: `\`${config.PREFIX}help suporte\``, inline: true },
+          { name: `Rádio`, value: `\`${config.PREFIX}help radio\``, inline: true }
         )
         .setTimestamp()
         .setThumbnail(avatar)
@@ -29,16 +30,18 @@ module.exports = {
       let avatar = client.user.displayAvatarURL({ format: 'png' });
       let listFun = description.diversao
       let listAdm = description.adm
-      let listGame = description.jogos
+      let listGame = description.level
       let listSup = description.suporte
       let listMusic = description.musica
       let listRpg = description.rpg
+      let listRadio = description.radio
       let Fun = ""
       let Adm = ""
       let Game = ""
       let Sup = ""
       let rpg = ""
       let Music = ""
+      let Rad = ""
       Object.keys(listFun).forEach(chave => {
         Fun += `**${chave}**\n${listFun[chave]} \n\n`
       });
@@ -57,6 +60,9 @@ module.exports = {
       Object.keys(listRpg).forEach(chave => {
         rpg += `**${chave}**\n ${listRpg[chave]} \n\n`
       });
+      Object.keys(listRadio).forEach(chave => {
+        Rad += `**${chave}**\n ${listRadio[chave]} \n\n`
+      });
       switch (args[0].toLowerCase()) {
         case 'moderador':
           const embed = new Discord.MessageEmbed()
@@ -69,15 +75,15 @@ module.exports = {
             .setAuthor('Mey - Comandos Moderador', avatar);
           await msg.channel.send(embed)
           break;
-        case 'games':
+        case 'level':
           const embed2 = new Discord.MessageEmbed()
-            .setTitle('Games!')
+            .setTitle('Level!')
             .setColor(config.COLOR)
             .setDescription(`${Game}`)
             .setTimestamp()
             .setThumbnail(avatar)
             .setFooter('Lista de comandos.')
-            .setAuthor('Mey - Comandos de Games', avatar);
+            .setAuthor('Mey - Comandos de Level', avatar);
           await msg.channel.send(embed2)
           break;
         case 'diversos':
@@ -123,6 +129,17 @@ module.exports = {
             .setFooter('Lista de comandos.')
             .setAuthor('Mey - Comandos RPG', avatar);
           await msg.channel.send(embed6)
+          break;
+        case 'radio':
+          const embed7 = new Discord.MessageEmbed()
+            .setTitle('Rádio!')
+            .setColor(config.COLOR)
+            .setDescription(`${Rad}`)
+            .setTimestamp()
+            .setThumbnail(avatar)
+            .setFooter('Lista de comandos.')
+            .setAuthor('Mey - Comandos de Rádio', avatar);
+          await msg.channel.send(embed7)
           break;
         default:
           await msg.channel.send(`Envie o comando corretamente!`)

@@ -1,0 +1,65 @@
+Your app is listening on port 62167
+[32m ―――――――――――――――――― Mey ――――――――――――――――――
+[37m Mey Conectou com sucesso no Discord!
+[32m ―――――――――――――――――― Mey ――――――――――――――――――
+[32m Nome do Bot: Mey
+[32m Tag do Bot: 7906
+[32m Bot ID: 735452795343208458
+[32m Servidores: 40
+[32m Membros: 1866
+[32m Canais: 1418
+[32m Criado em: 2020-07-22T11:06:50.462Z
+[32m Status: online
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: andwcora#5171 Registrado. Servidor: The Palace Of Gados ID: 357215302989381642 Owner: <@!357204933109481475>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Fяєιтαѕ#9688 Registrado. Servidor: ★ Brαsıl Vıdα De Mαgnαtα ★ ID: 735263713023623221 Owner: <@357204933109481475>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Leal#7505 Registrado. Servidor: ⛲ 𝘽𝙧𝙤𝙬𝙡𝙚𝙧 ⛲ ID: 764613282543435796 Owner: <@552176454146981894>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+matei
+matei
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: dinasty Escócia#0021 Registrado. Servidor: ★ Brαsıl Vıdα De Mαgnαtα ★ ID: 735263713023623221 Owner: <@357204933109481475>
+Membro: LhamaDebochada#2124 Registrado. Servidor: Astaroth ID: 680210625749712919 Owner: <@665266202100105219>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: GUGA#3421 Registrado. Servidor: ★ Brαsıl Vıdα De Mαgnαtα ★ ID: 735263713023623221 Owner: <@357204933109481475>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Mr_Doguinho#7215 Registrado. Servidor: 🚀The Lost Paradise💸 #FicaEmCasa ID: 746556100991778897 Owner: <@!702638598314393720>
+matei
+Membro: dinasty E.#0021 Registrado. Servidor: ★ Brasil Vida de Magnata - Oficial ★ ID: 735263713023623221 Owner: <@357204933109481475>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ! Juan ᴄᴅᴊ#2007 Registrado. Servidor: ★ Brasil Vida de Magnata - Oficial ★ ID: 735263713023623221 Owner: <@357204933109481475>
+Membro: !    ↝ ¯̶̄ShRziNN 💸#4678 Registrado. Servidor: ★ Brasil Vida de Magnata - Oficial ★ ID: 735263713023623221 Owner: <@357204933109481475>
+Membro: ᵐᵒⁿˢᵗᵉʳBORNIAᶜˡᵇツ#0171 Registrado. Servidor: ★ Brasil Vida de Magnata - Oficial ★ ID: 735263713023623221 Owner: <@357204933109481475>
+Membro: CH4P4X#3025 Registrado. Servidor: ★ Brasil Vida de Magnata - Oficial ★ ID: 735263713023623221 Owner: <@357204933109481475>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Gabriel gomes#6634 Registrado. Servidor: Família Crönner ID: 765371092746371092 Owner: <@!282540776259452929>
+Membro: />Lucas#1823 Registrado. Servidor: ★ Brasil Vida de Magnata - Oficial ★ ID: 735263713023623221 Owner: <@357204933109481475>
+Membro: coringar#6666 Registrado. Servidor: 𝕺𝖘 𝕮𝖗𝖎𝖆   ✝ ID: 673262387448643590 Owner: <@280876388473372673>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: pudim#5277 Registrado. Servidor: Astaroth ID: 680210625749712919 Owner: <@665266202100105219>
+Membro: Nandes 🔥#1337 Registrado. Servidor: ★ Brasil Vida de Magnata - Oficial ★ ID: 735263713023623221 Owner: <@357204933109481475>
+Membro: ᲼᲼᲼᲼᲼᲼᲼#1234 Registrado. Servidor: ★ Brasil Vida de Magnata - Oficial ★ ID: 735263713023623221 Owner: <@357204933109481475>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: 𝐀𝐧𝐠𝐞𝐥#6188 Registrado. Servidor: ❖ 𝐍𝐨𝐫𝐭𝐡 𝐒𝐲𝐧𝐝𝐢𝐜𝐚𝐭𝐞 ❖ ID: 642924836993368074 Owner: <@!164750507909447680>
+Membro: ⏤͟͟͞⛱GOI4NOO#1895 Registrado. Servidor: ★ Brasil Vida de Magnata - Oficial ★ ID: 735263713023623221 Owner: <@357204933109481475>
+Erro: ReferenceError: err is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Ariatti2#3937 Registrado. Servidor: Sea of Thieves Brasil || Immortals ID: 732004113910333441 Owner: <@!267512993397342229>
+Erro no contador Add:  TypeError: Cannot read property 'replace' of null
+    at Client.<anonymous> (E:\DiscordBot\Mey\app\index.js:454:31)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Erro no contador Add:  TypeError: Cannot read property 'replace' of null
+    at Client.<anonymous> (E:\DiscordBot\Mey\app\index.js:499:31)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)

@@ -1,0 +1,20 @@
+Your app is listening on port 58405
+[32m ―――――――――――――――――― Mey ――――――――――――――――――
+[37m Mey Conectou com sucesso no Discord!
+[32m ―――――――――――――――――― Mey ――――――――――――――――――
+[32m Nome do Bot: Mey
+[32m Tag do Bot: 7906
+[32m Bot ID: 735452795343208458
+[32m Servidores: 42
+[32m Membros: 1997
+[32m Canais: 1467
+[32m Criado em: 2020-07-22T11:06:50.462Z
+[32m Status: online
+ueee
+Membro: allanoliveira#3948 Registrado. Servidor: HRMoney ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: !        Silva#2265 Registrado. Servidor: ★ Brasil Vida de Magnata - Oficial ★ ID: 735263713023623221 Owner: <@357204933109481475>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: MrAnderz#4778 Registrado. Servidor: HRMoney ID: 757655035076411518 Owner: <@414281522938511370>

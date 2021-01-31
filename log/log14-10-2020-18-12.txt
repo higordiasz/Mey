@@ -1,0 +1,21 @@
+Your app is listening on port 59681
+[32m ―――――――――――――――――― Mey ――――――――――――――――――
+[37m Mey Conectou com sucesso no Discord!
+[32m ―――――――――――――――――― Mey ――――――――――――――――――
+[32m Nome do Bot: Mey
+[32m Tag do Bot: 7906
+[32m Bot ID: 735452795343208458
+[32m Servidores: 40
+[32m Membros: 1863
+[32m Canais: 1418
+[32m Criado em: 2020-07-22T11:06:50.462Z
+[32m Status: online
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Davi344#9897 Registrado. Servidor: ⛲ 𝘽𝙧𝙤𝙬𝙡𝙚𝙧 ⛲ ID: 764613282543435796 Owner: <@552176454146981894>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Asunaᵐᵏᶜ ✦#0007 Registrado. Servidor: 🚀The Lost Paradise💸 #FicaEmCasa ID: 746556100991778897 Owner: <@!702638598314393720>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Tia Romba#0507 Registrado. Servidor: PapaiBug ID: 514591855967731722 Owner: <@412719047558430721>
+Membro: 𝑨𝒚𝒖𝒎𝒊#6666 Registrado. Servidor: ★ Brαsıl Vıdα De Mαgnαtα ★ ID: 735263713023623221 Owner: <@357204933109481475>
+Erro memberjoin: ReferenceError: cargo is not defined

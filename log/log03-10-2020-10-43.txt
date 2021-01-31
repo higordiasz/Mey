@@ -1,0 +1,178 @@
+Your app is listening on port 50117
+[32m ―――――――――――――――――― Mey ――――――――――――――――――
+[37m Mey Conectou com sucesso no Discord!
+[32m ―――――――――――――――――― Mey ――――――――――――――――――
+[32m Nome do Bot: Mey
+[32m Tag do Bot: 7906
+[32m Bot ID: 735452795343208458
+[32m Servidores: 40
+[32m Membros: 1850
+[32m Canais: 1358
+[32m Criado em: 2020-07-22T11:06:50.462Z
+[32m Status: online
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Natan#4335 Registrado. Servidor: PapaiBug ID: 514591855967731722 Owner: <@412719047558430721>
+Membro: Herick#0961 Registrado. Servidor: Aleatórios ID: 658882173004152862 Owner: <@286318491517059094>
+Membro: KyuL#0007 Registrado. Servidor: Aleatórios ID: 658882173004152862 Owner: <@286318491517059094>
+Membro: by#9283 Registrado. Servidor: Aleatórios ID: 658882173004152862 Owner: <@286318491517059094>
+Membro: vampire6669#2862 Registrado. Servidor: Astaroth ID: 680210625749712919 Owner: <@665266202100105219>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: otx#0555 Registrado. Servidor: Aleatórios ID: 658882173004152862 Owner: <@286318491517059094>
+Membro: ay#0006 Registrado. Servidor: Aleatórios ID: 658882173004152862 Owner: <@286318491517059094>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Getten#0334 Registrado. Servidor: Aleatórios ID: 658882173004152862 Owner: <@286318491517059094>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Glock#0007 Registrado. Servidor: Aleatórios ID: 658882173004152862 Owner: <@286318491517059094>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: bpagan#8631 Registrado. Servidor: Aleatórios ID: 658882173004152862 Owner: <@286318491517059094>
+Membro: L-#4829 Registrado. Servidor: Aleatórios ID: 658882173004152862 Owner: <@286318491517059094>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: fcku#6083 Registrado. Servidor: Aleatórios ID: 658882173004152862 Owner: <@286318491517059094>
+Membro: rodanai_luna#1355 Registrado. Servidor: PapaiBug ID: 514591855967731722 Owner: <@412719047558430721>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: PapaiBug#0228 Registrado. Servidor: PapaiBug ID: 514591855967731722 Owner: <@412719047558430721>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Maxpcd#9212 Registrado. Servidor: PapaiBug ID: 514591855967731722 Owner: <@412719047558430721>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Victu#1577 Registrado. Servidor: 🚀The Lost Paradise💸 #FicaEmCasa ID: 746556100991778897 Owner: <@!702638598314393720>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: 𝕷𝖊𝖔𝖓 𝕶𝖚𝖗𝖙𝖟#0001 Registrado. Servidor: PapaiBug ID: 514591855967731722 Owner: <@412719047558430721>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: NIXX PC#0502 Registrado. Servidor: 🚀The Lost Paradise💸 #FicaEmCasa ID: 746556100991778897 Owner: <@!702638598314393720>
+Membro: Milena#0001 Registrado. Servidor: PapaiBug ID: 514591855967731722 Owner: <@412719047558430721>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Herick (Celular)#5712 Registrado. Servidor: Aleatórios ID: 658882173004152862 Owner: <@286318491517059094>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: XANDECO 持久的#7513 Registrado. Servidor: 🚀The Lost Paradise💸 #FicaEmCasa ID: 746556100991778897 Owner: <@!702638598314393720>
+ueee
+Membro: Ronaldo#4596 Registrado. Servidor: PapaiBug ID: 514591855967731722 Owner: <@412719047558430721>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: nalu#7602 Registrado. Servidor: 🚀The Lost Paradise💸 #FicaEmCasa ID: 746556100991778897 Owner: <@!702638598314393720>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: TurtleZypher#6371 Registrado. Servidor: Astaroth ID: 680210625749712919 Owner: <@665266202100105219>
+Membro: Anaaa#8600 Registrado. Servidor: Aleatórios ID: 658882173004152862 Owner: <@286318491517059094>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: baitolinha#0234 Registrado. Servidor: PapaiBug ID: 514591855967731722 Owner: <@412719047558430721>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: santt1111#9291 Registrado. Servidor: 🚀The Lost Paradise💸 #FicaEmCasa ID: 746556100991778897 Owner: <@!702638598314393720>
+Membro: Jhennyffer#5290 Registrado. Servidor: 🚀The Lost Paradise💸 #FicaEmCasa ID: 746556100991778897 Owner: <@!702638598314393720>
+Membro: alisso#3772 Registrado. Servidor: 🚀The Lost Paradise💸 #FicaEmCasa ID: 746556100991778897 Owner: <@!702638598314393720>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Luppi#8952 Registrado. Servidor: Astaroth ID: 680210625749712919 Owner: <@665266202100105219>
+Membro: Waifu Warrior#2159 Registrado. Servidor: Astaroth ID: 680210625749712919 Owner: <@665266202100105219>
+Membro: Bozi#3456 Registrado. Servidor: PapaiBug ID: 514591855967731722 Owner: <@412719047558430721>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: R.Raccoon#3618 Registrado. Servidor: Impostores ID: 761562825424371732 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ly#6333 Registrado. Servidor: 🚀The Lost Paradise💸 #FicaEmCasa ID: 746556100991778897 Owner: <@!702638598314393720>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Fate.#4848 Registrado. Servidor: 🚀The Lost Paradise💸 #FicaEmCasa ID: 746556100991778897 Owner: <@!702638598314393720>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Niko.#0777 Registrado. Servidor: 🚀The Lost Paradise💸 #FicaEmCasa ID: 746556100991778897 Owner: <@!702638598314393720>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Ethan Abner#3365 Registrado. Servidor: 🚀The Lost Paradise💸 #FicaEmCasa ID: 746556100991778897 Owner: <@!702638598314393720>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Gian#7260 Registrado. Servidor: 🚀The Lost Paradise💸 #FicaEmCasa ID: 746556100991778897 Owner: <@!702638598314393720>
+Membro: eu so alguem#7823 Registrado. Servidor: 🚀The Lost Paradise💸 #FicaEmCasa ID: 746556100991778897 Owner: <@!702638598314393720>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Crazy__#1416 Registrado. Servidor: 🚀The Lost Paradise💸 #FicaEmCasa ID: 746556100991778897 Owner: <@!702638598314393720>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro no contador Add:  TypeError: Cannot read property 'replace' of null
+    at Client.<anonymous> (E:\DiscordBot\Mey\app\index.js:454:31)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro no contador Add:  TypeError: Cannot read property 'replace' of null
+    at Client.<anonymous> (E:\DiscordBot\Mey\app\index.js:499:31)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: GSTS#0361 Registrado. Servidor: 3 jogadores demais ID: 643178075659698186 Owner: <@!396373330455822337>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: atumLENDA-#3948 Registrado. Servidor: Astaroth ID: 680210625749712919 Owner: <@665266202100105219>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Jéssi#5097 Registrado. Servidor: Algum lugar na interwebs ID: 559106569262989342 Owner: <@!357204933109481475>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: TheSame#0001 Registrado. Servidor: PapaiBug ID: 514591855967731722 Owner: <@412719047558430721>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: stormi#9999 Registrado. Servidor: 𝙽𝚘𝚛𝚝𝚑  𝙿𝚕𝚊𝚢𝚎𝚛𝚜 ID: 721253448800010321 Owner: <@!723385826263957587>
+ueee
+Erro no contador Add:  TypeError: Cannot read property 'replace' of null
+    at Client.<anonymous> (E:\DiscordBot\Mey\app\index.js:454:31)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Membro: TomasPT|007#1533 Registrado. Servidor: OTL OutLaws ID: 638516078896742429 Owner: <@!384476193329512449>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: THziiN 🤬🐊🔥#1812 Registrado. Servidor: 🚀The Lost Paradise💸 #FicaEmCasa ID: 746556100991778897 Owner: <@!702638598314393720>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ♋✨𝑀𝒾𝓇𝒶𝒾_𝒞𝒽𝓊✨♋#1570 Registrado. Servidor: 🚀The Lost Paradise💸 #FicaEmCasa ID: 746556100991778897 Owner: <@!702638598314393720>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro no contador Add:  TypeError: Cannot read property 'replace' of null
+    at Client.<anonymous> (E:\DiscordBot\Mey\app\index.js:499:31)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: GREGO#9999 Registrado. Servidor: 𝔐𝔞𝔫𝔰ã𝔬 𝔡𝔞 𝔣𝔞𝔪í𝔩𝔦𝔞 𝔅𝔲𝔰𝔠𝔞𝔭é ID: 745784917400616964 Owner: <@709448982983868516>
+Membro: (Idoso) rafelzin#9104 Registrado. Servidor: 🚀The Lost Paradise💸 #FicaEmCasa ID: 746556100991778897 Owner: <@!702638598314393720>
+Erro no contador Add:  TypeError: Cannot read property 'replace' of null
+    at Client.<anonymous> (E:\DiscordBot\Mey\app\index.js:499:31)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Negro japones#7516 Registrado. Servidor: 𝔐𝔞𝔫𝔰ã𝔬 𝔡𝔞 𝔣𝔞𝔪í𝔩𝔦𝔞 𝔅𝔲𝔰𝔠𝔞𝔭é ID: 745784917400616964 Owner: <@709448982983868516>
+Erro no contador Add:  TypeError: Cannot read property 'replace' of null
+    at Client.<anonymous> (E:\DiscordBot\Mey\app\index.js:499:31)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Mes#9132 Registrado. Servidor: 𝔐𝔞𝔫𝔰ã𝔬 𝔡𝔞 𝔣𝔞𝔪í𝔩𝔦𝔞 𝔅𝔲𝔰𝔠𝔞𝔭é ID: 745784917400616964 Owner: <@709448982983868516>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Godpagodii#4334 Registrado. Servidor: 🚀The Lost Paradise💸 #FicaEmCasa ID: 746556100991778897 Owner: <@!702638598314393720>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+ueee
+Membro: zamborlini#3201 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ🔥 ID: 737843046606962730 Owner: <@!716773243255521315>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Cxlvin#9915 Registrado. Servidor: 🚀The Lost Paradise💸 #FicaEmCasa ID: 746556100991778897 Owner: <@!702638598314393720>
+Membro: ! PATO 🎭#2327 Registrado. Servidor: Mansão da Mey Oficial ID: 557630455634198529 Owner: <@357204933109481475>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: !             not important🎶#2190 Registrado. Servidor: 🚀The Lost Paradise💸 #FicaEmCasa ID: 746556100991778897 Owner: <@!702638598314393720>
+Erro memberjoin: ReferenceError: cargo is not defined

@@ -1,0 +1,1137 @@
+Your app is listening on port 50074
+[32m ―――――――――――――――――― Mey ――――――――――――――――――
+[37m Mey Conectou com sucesso no Discord!
+[32m ―――――――――――――――――― Mey ――――――――――――――――――
+[32m Nome do Bot: Mey
+[32m Tag do Bot: 7906
+[32m Bot ID: 735452795343208458
+[32m Servidores: 44
+[32m Membros: 12
+[32m Canais: 1485
+[32m Criado em: 2020-07-22T11:06:50.462Z
+[32m Status: online
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Laygor#1625 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: 1900#3226 Registrado. Servidor: Astaroth ID: 680210625749712919 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: yGuhdeAK#8334 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #200 ID: 737843046606962730 Owner: <@!716773243255521315>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ArpGod#1525 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Puscifer#3435 Registrado. Servidor: Devil Pleasures bar ID: 722978884458643478 Owner: <@!709468278728294410>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: WZIN9.FF#6076 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: Fernando36#4887 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Steve Rubens#8575 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #200 ID: 737843046606962730 Owner: <@!716773243255521315>
+Membro: danidani#4341 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: joaopedrodaniel#5711 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: contaparaodizu#7169 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro no contador Add:  TypeError: Cannot read property 'replace' of null
+    at Client.<anonymous> (E:\DiscordBot\Mey\app\index.js:499:31)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: anamsouza#7526 Registrado. Servidor: 𝔐𝔞𝔫𝔰ã𝔬 𝔡𝔞 𝔣𝔞𝔪í𝔩𝔦𝔞 𝔅𝔲𝔰𝔠𝔞𝔭é ID: 745784917400616964 Owner: <@709448982983868516>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Jacir#1081 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: BS|ĐΔVƗĐ#2430 Registrado. Servidor: Mansão da Mey Oficial ID: 557630455634198529 Owner: null
+Membro: Ivan22#4208 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: Junin#1144 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: Vanessa schein#0769 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: itsxjazz#2690 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Herotisch#6426 Registrado. Servidor: Devil Pleasures bar ID: 722978884458643478 Owner: <@!709468278728294410>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Яд#0666 Registrado. Servidor: Devil Pleasures bar ID: 722978884458643478 Owner: <@!709468278728294410>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: junim.x#8016 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Sam ت#1577 Registrado. Servidor: Família Crönner ID: 765371092746371092 Owner: <@282540776259452929>
+Membro: jhonata#8086 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: erickflan10#1520 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Iggor#6015 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: IGGOR#7041 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: jigokusan#3241 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Elder#0660 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: kevinddcr#8267 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Doutor#5161 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: DoutorXXN#2103 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Toddynho.#0070 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Vitorfla0013#7915 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Shayd#9122 Registrado. Servidor: Devil Pleasures bar ID: 722978884458643478 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: a fuziladora de fimose#4973 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Membro: SaintHimuru#3138 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ! zmaster#9308 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Colex#9595 Registrado. Servidor: PapaiBug ID: 514591855967731722 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Patreco#6451 Registrado. Servidor: Devil Pleasures bar ID: 722978884458643478 Owner: <@!709468278728294410>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Vinizinh da AK ignorante#6677 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: Hyan#4864 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Ami#8616 Registrado. Servidor: 3 jogadores demais ID: 643178075659698186 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: samuelwz#0862 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: ArthurOFC#2115 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: deXtroGeN#0001 Registrado. Servidor: Devil Pleasures bar ID: 722978884458643478 Owner: null
+Membro: Lusks#0590 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: LipaoTutors#1071 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: mariana0227#7035 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Deb#3362 Registrado. Servidor: Devil Pleasures bar ID: 722978884458643478 Owner: <@!709468278728294410>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ALAN_CHARLES#2884 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: Kangaceiro#5944 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: Pedro Simões#3455 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: SapienCia#4478 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: karol#6152 Registrado. Servidor: Devil Pleasures bar ID: 722978884458643478 Owner: <@!709468278728294410>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Fuyuki#7777 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: Josiane#9363 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: Louisek6_#3390 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: xxxXMenorXxxx#4157 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: Hill#1301 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: thominhas#9206 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Teusinhoo#8619 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+ueee
+ueee
+Membro: Exalando#9804 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+ueee
+Membro: Wallison768#7420 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: antoniocarlos0813#7844 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: Queen#0105 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: BW  ᄃΛЯЯIΣᄂ†#9526 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Renatinho#0440 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Membro: terriblidade#4070 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: lemons1098#8929 Registrado. Servidor: Astaroth ID: 680210625749712919 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: BlackDog#0764 Registrado. Servidor: Devil Pleasures bar ID: 722978884458643478 Owner: <@!709468278728294410>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Pedro '-'#9667 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Mulan✨#0427 Registrado. Servidor: Devil Pleasures bar ID: 722978884458643478 Owner: <@!709468278728294410>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Succubus#5579 Registrado. Servidor: Devil Pleasures bar ID: 722978884458643478 Owner: <@!709468278728294410>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Rag#0740 Registrado. Servidor: Devil Pleasures bar ID: 722978884458643478 Owner: <@!709468278728294410>
+Membro: Geovasoares#0618 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Victor EXTREME | HARD#4476 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: hi_hellou#7084 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: Geor#2508 Registrado. Servidor: Best Server ID: 771141214673698897 Owner: <@367341937369415682>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Smoofie#7133 Registrado. Servidor: Devil Pleasures bar ID: 722978884458643478 Owner: <@!709468278728294410>
+Membro: rio#7752 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ゞ  Thug     ム#3527 Registrado. Servidor: 𝙽𝚘𝚛𝚝𝚑  𝙿𝚕𝚊𝚢𝚎𝚛𝚜 ID: 721253448800010321 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Ariana#2314 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: INTZ SOARES#0998 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: q u e....#1665 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro no contador Add:  TypeError: Cannot read property 'replace' of null
+    at Client.<anonymous> (E:\DiscordBot\Mey\app\index.js:499:31)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Membro: eduardavilarino#7696 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Templário#0983 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Membro: Ράιαν#9479 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ! BART 桜#0001 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Membro: Rickz#7583 Registrado. Servidor: sei la carai ID: 781266065711431711 Owner: <@552176454146981894>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: vinizinn#2546 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Anne amaro#9184 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: layna#8699 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: GUERRILHA#5827 Registrado. Servidor: 𝙽𝚘𝚛𝚝𝚑  𝙿𝚕𝚊𝚢𝚎𝚛𝚜 ID: 721253448800010321 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Coringa Anão#4855 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: TrixG1#3570 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: LukinhasB10#3671 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: Gabriel Augusto#5918 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Kaiionunees#4111 Registrado. Servidor: Família Crönner ID: 765371092746371092 Owner: null
+Membro: eyhshshsjs#1535 Registrado. Servidor: Família Crönner ID: 765371092746371092 Owner: null
+Membro: Flam#0004 Registrado. Servidor: 𝙽𝚘𝚛𝚝𝚑  𝙿𝚕𝚊𝚢𝚎𝚛𝚜 ID: 721253448800010321 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Helena#6280 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: null
+Membro: celularpc2#5595 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: Ruiz#3148 Registrado. Servidor: Família Crönner ID: 765371092746371092 Owner: null
+Membro: ＡRＣＡＮＪＯ†#0394 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: jotape17#3502 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: DN#6239 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: Carol.k#3611 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: Elvys#4893 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Maria Cardoso#2859 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ZkSemPicareta#8906 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Membro: maelscotty#3786 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: DN#3284 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: SnTzᴸᶦ́ᵛᶦᵃ♡#1629 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: 𝔂𝓵𝓾𝓬𝓪𝓼#9586 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: TheLuk#8485 Registrado. Servidor: Devil Pleasures bar ID: 722978884458643478 Owner: <@!709468278728294410>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ⸎ CORE2K ⸎#1995 Registrado. Servidor: Devil Pleasures bar ID: 722978884458643478 Owner: <@!709468278728294410>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Djanejatoba#8654 Registrado. Servidor: Devil Pleasures bar ID: 722978884458643478 Owner: <@!709468278728294410>
+Membro: LoKeTTa#2624 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Anaa#3305 Registrado. Servidor: sei la carai ID: 781266065711431711 Owner: <@552176454146981894>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: DefozerGames#0001 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Kayky#4177 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Membro: ! Fontana#8338 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Membro: Mano Gyo#5371 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Cah#8779 Registrado. Servidor: Devil Pleasures bar ID: 722978884458643478 Owner: <@!709468278728294410>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: danilo141987#3738 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: roma1#5722 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Scoth#0001 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Membro: miranha#2493 Registrado. Servidor: Astaroth ID: 680210625749712919 Owner: <@665266202100105219>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: !          タ Rafael'[ᴄ.ᴠ.ʀ.ʟ] 🇪🇸#0021 Registrado. Servidor: Kita ID: 756342551233167413 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Lenda®'#0100 Registrado. Servidor: Emojis do Lenda. ID: 737509517021020321 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Master_Games#9059 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ylua#2010 Registrado. Servidor: EMOJIS DO LENDA 2 ID: 750099355846967407 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: higorsiIva#8303 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: É o HG#5289 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: darlan53#0034 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: OTAKU MALOKA#8163 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: 𝐅𝐫𝐨𝐬𝐭#0001 Registrado. Servidor: Devil Pleasures bar ID: 722978884458643478 Owner: <@!709468278728294410>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: HenriqueXt#7015 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: edy113#2333 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: !     Luuh'🦋  友#2921 Registrado. Servidor: Emojis do Lenda. ID: 737509517021020321 Owner: <@752959600390832419>
+Membro: Shanicua#2750 Registrado. Servidor: PapaiBug ID: 514591855967731722 Owner: null
+ueee
+Membro: Igor.nd0#2747 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: Minatu#0001 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: scarlet06#9106 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: MatheusDoGrau#5940 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Sah#0001 Registrado. Servidor: Devil Pleasures bar ID: 722978884458643478 Owner: <@!709468278728294410>
+Membro: rxxxx#6326 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Membro: Biakook#1716 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: Glaucy#5873 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Paozin#5961 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: GANGMEMBERDARK#7386 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Membro: Duscla#8812 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: MatheusElias#5939 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: amand#1372 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ricks.#3666 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Membro: afonso#7089 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: killer151511#5807 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: KaioNunes#5727 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Onack 仇#6949 Registrado. Servidor: Devil Pleasures bar ID: 722978884458643478 Owner: <@!709468278728294410>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Rafa_morningstar✨#0483 Registrado. Servidor: Devil Pleasures bar ID: 722978884458643478 Owner: <@!709468278728294410>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ahnstron#2276 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Augusto#0548 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: [BR]Augusto#3755 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: DavidOp#4219 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Cheesypony#9198 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: thiagosartt#8806 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: francislene63#7251 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Homenzinho#7797 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: Eddy1#8469 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: israelluiz#0188 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: FOCUSEDCPT#9098 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: nitro_zeus#0955 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Kaito#9326 Registrado. Servidor: Devil Pleasures bar ID: 722978884458643478 Owner: <@!709468278728294410>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: evellenreis#2830 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: Lorenx#7916 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: lesteDiego#8640 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: mariana1605#7829 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: WillSpok#2605 Registrado. Servidor: ~  Cansei  ~ ID: 781266065711431711 Owner: <@552176454146981894>
+Membro: nickmarin#3055 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: dKaDOGAN#3463 Registrado. Servidor: ~  Cansei  ~ ID: 781266065711431711 Owner: <@552176454146981894>
+Membro: Mgd33#9275 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: P I N G U I M#2561 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: rickwitcher#7691 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro ao enviar mensagem para o channel de log:  TypeError: Cannot read property 'user' of null
+    at Client.<anonymous> (E:\DiscordBot\Mey\app\index.js:233:52)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Membro: 𝕽𝖔𝖓𝖆𝖑𝖉#5652 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: hiroquilo /////#0236 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: !      🎈🌺_ice Cremer _❤🍁#6096 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: rainha-J#1443 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: hiei#6096 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: 📓  •| Mᴇɪ ඞ |• 🖋#0905 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Membro: Obito_Uchiha#9295 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Membro: Dollynho#9931 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Membro: AnaDeMatos#7677 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: ϟAustraliano.#1971 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Membro: ✨༄Quim࿐✨#2714 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Membro: Luiza 34164  linda#3830 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Membro: Lobin#4973 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Membro: Rena Potter#5597 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Membro: Henriqueeeeee#4621 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: Ana julia#1582 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: rikk#1861 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: Mitsukke?#7424 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: Jhonatan#0962 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: GUERREIRO ENVIADO POR DEUS#9057 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: SABRINA🖤🇯🇵#2077 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Moonsun#2966 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: мเ†รђµмเк#9318 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ✦‧₊˚⊹˚₊♡・juh*ﾟ+｡ ｡*ﾟ+#8040 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: Shota#9679 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: Isaque#6649 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Quietinho#3255 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: V2NT_S7TY°Official#3526 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: café quentinho#4551 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: BrianPaiva#4887 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: 🌹Loli-Mari🌹#4992 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ŠÄŘÄH 😝🌷#6027 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: nunu$2#7901 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: jean12#5141 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: Jhennys#1231 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: Maduu#1955 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: Patrick Soloq Vrau#8191 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ✨シ✔ 𝑻𝒐𝒃𝒊 ✔シ✨#0789 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+matei
+Membro: ×      𝓎ℛ𝓎𝒶𝓃𝒟𝒦7_   ᵀᴹ#9999 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Membro: dudaa#0614 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: -zεяσł-кครн-#2728 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: sasuke#6806 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: gabrieltrooper#1656 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Tio Ban#1163 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ! SENPAI#2243 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: zSlow_#9890 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: jwrld#9999 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: messssiass#6080 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: samuk#7005 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: Dr_Apa#3177 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Membro: Ｆｕｃｋ ｌｉｆｅ🔫----⊱ 𝐤𝐢𝐥𝐥 𝐦𝐞 ⊰#7283 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ★彡ツ ☁ T O D O R O K I ☁ ツ彡★#8380 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: ™ Paulo Roberto ®#6554 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Giih#2052 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: jogadorrr.....#5548 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: FIVE*-*ILUDIDO*-*#9118 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: 💛 Pão de Queijo 💙#3121 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: Raw#8644 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: 💜🌠 S U R T A D A 🌠💜#6815 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: G0D BL4CK#0001 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Membro: ⭐𝙷𝙰𝙿𝙿𝚈⭐#5053 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: seu pesadelo#6192 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: HeavyMax#8310 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: Mec.#0284 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Suspicious.#0004 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: SrMaster092#3232 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Gatito#9986 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ❡♬ᖲƦɨ៩ɭ_Ȥ៩Ʀ០#5804 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Sanji Gado#5607 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Matheus '-'#2170 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: potato (1_1)#4141 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Karla#6807 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: tobi akatsuki#1848 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: Rosilete Rosa#5935 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: Gabriel A.M#5539 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: JotaJones™#3296 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Austra#5506 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Cafeina#4535 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: -        SAFADINHA#6666 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: !  loirinha neh vida♡#9547 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: EDUARDO UZUMAKI#9827 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Spektral#0001 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: 🔥MØRENA LINDA CARIOCA🔥#3185 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: Kelyane 💗#6665 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: kauan*#7296 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: 𝖆𝖘𝖆𝖈𝖎𝖓𝖔 𝖉𝖊 𝖆𝖘𝖆𝖈𝖎𝖓𝖔𝖘#0405 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: !       KvZiN⏃#0761 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: MuriloSC#5398 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Pudim <3 ᴰᵃ ʲᵘˡᶦᵃ#0093 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: 〆  ყｏт ᧘ ᧘ ʜ néh vidah#7233 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: D4RK#9356 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: zchuker#7962 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Rafel#7731 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: marUAn❟❛❟#7098 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Rafaela_animes#1604 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Sally Face#2994 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: 𝘒𝘪𝘳𝘪𝘨𝘢𝘺𝘢 𝘒𝘢𝘻𝘶𝘵𝘰🖤#3751 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: [°•Yum&ko•°]#8370 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ｌｏｒｄ✞#3912 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ❄༄𝑺𝒕𝒓𝒂𝒘𝒃𝒆𝒓𝒓𝒚 ☃#2377 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Naomi#2490 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ♤• Lágrimas-kun •♤#1275 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Milho'Ondas么#1002 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: 𝚄𝙼𝙰𝚂 𝙿𝙰𝚁𝙰𝙳𝙰  𝙰𝙸#0149 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ❟❛❟Renekton❟❛❟#1172 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: yoshi#1359 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: cookieyey#2132 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Bremmer Lopes#9091 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: F4¹²³#2296 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Sayaka Pão de Queijo#2659 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: -Patokyz/Jake-#2077 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: I am butterfly#2947 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: TioKilluaツ#7672 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ☠☠(PIT FBI)☠☠#3326 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Ixtʀѳɳ ʝɑck#3391 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Kayque.KZ9#5387 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ! BellA 🔥#6339 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: fanir neves#1862 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Frrer BR#3607 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Henrique_sayadin#7839 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ! Kiri⛄#5666 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: kisamedeus#4036 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: B a t a t a#4466 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Ló#4016 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: shiro#4419 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: !  ƬƊƦ⊹ ๖ۣۜ𝐁𝐫𝐚𝐛𝐨 𝐝𝐦𝐬¹⁵⁷ ༒#0007 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Minatsu☕#1627 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Mitsuaki#6935 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Akamaru-senpau TD3🎌💥🐊#3530 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: otaku._qualquer#6664 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: -.. .. .- ... --..#3819 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: NoName#0065 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Hinata Hyuga#7920 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: 🥀!𝓔𝓶𝓶𝓪...#0924 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Arima#4772 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: !MIKE#0037 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Kevyla#4629 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: Ayan#0923 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Foxy R.#4726 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: 𝕷𝖎𝖗𝖚𝖎𝖘#1054 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: CodaCode362#1313 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Accelerator#5458 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Pedro 😎😎👌#8779 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: 氷Mitsuk氷#8028 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: - Coreano 黒ペス#0001 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: !     BABYZOOOONNN#5842 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Lucas Davi Mário da Cunha#4071 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: LOKE#7375 Registrado. Servidor: Algum lugar na interwebs ID: 559106569262989342 Owner: null
+Membro: RedRibboN💸#1063 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Vento#8016 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: •Bella•{ᴀɢᴄ}#1097 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: GATILHO#0914 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro no contador Add:  TypeError: Cannot read property 'replace' of null
+    at Client.<anonymous> (E:\DiscordBot\Mey\app\index.js:499:31)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Membro: Camilagabriela0#2787 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: 🌹🌈Døcîn†de†lēitë✨🥀#8676 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: dedinBRKS#3988 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: ferhlk#0964 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: lulubr_gamer4012#3090 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ! Maio#3093 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: Givonaldo#0425 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ! ☂ Isah 桜 🐍#7524 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: PoxaGabi#9827 Registrado. Servidor: Família Crönner ID: 765371092746371092 Owner: <@282540776259452929>
+Membro: Cassiane#8035 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: mateus sccp#0122 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Ghostly#3268 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ! Mamute | Yuri ✦꙳#3365 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Guiiilherme#8379 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: Julia Costa#3403 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: lucas chaves#1288 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: caçador de capivara#4720 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Raziel#5162 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: รഠℓтε¡яąഠ_ഠ๓._. ₣ҡ#1379 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: murilo#5555 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: nomira~#5223 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: !    ⛓๖ۣۜAkashi  友 ⁵⁴#1202 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: usa vírgula ,,,,,,#4289 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ! EB•GRITA#5568 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Manu_#5638 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Arabella#3195 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Μ€ŁΔŇŦƗŞ#4704 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Davi uchiha#4876 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: miranha ama wildcat#6252 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Pepe ama pra krl Akame#0001 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ʳᵒⁱ ᵍᵃᵈᵃ ⁿᵉ́? 無#3157 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Polar🌙 煪橱洳#5927 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: OdeBaixoBRABO#2078 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: juhlia#6448 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: May18th 〄ᴾᴰᴰ#1804 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ࿔₊˚ Pop ツ#4256 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Alex yeah#0487 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: TalesHaverroth~お尻#2213 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ｡ﾟʚ 𝐌𝐞𝐫𝐥𝐢𝐧 𝐚𝐦𝐚 𝐒𝐚𝐧𝐝𝐮𝐛𝐚 ɞ° ｡#2597 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Sr. John Milton#0245 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Odranreb#8150 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Swezy#3561 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Vercize#8179 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Towata#4071 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ❐❏MaisaOtni❏❐#1910 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Deme.#0016 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: R N N#8750 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: natthansouzza#4320 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: iManu 🦩₊˚✰#0408 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Catarino#4713 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: shoto.#4534 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ꧁彡ᴛʜᴇ ʟᴇɢᴇɴᴅ ᴏғ link꧂#5752 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: 🌸･.｡. 𝓐𝓷𝓭𝔂 .｡.･🌸#4462 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Ƒ ᙎ Ⲋ ™ Mena#4383 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Proerd#0266 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: DarKsann#8262 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Arthur_Br#3683 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Gpc_gameplays#0746 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: uchiha madara#6796 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: SHINUUB#5342 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: 𝙇𝙪𝙣🍶|⃤ `,'.#2418 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Hiroo#8868 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Erick23#7722 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Dromwolfz_gamerBR#2085 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: emmy#9589 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Tio Boruto❲煱#0862 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: BielGR#8612 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Ｋ Ｕ Ｒ Ａ Ｍ Ｉ Ｎ Ｈ Ａ#0644 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: DAVI SR#0450 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: sthefanie#0214 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: vitor.gomes_00#7399 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Piettro23#2318 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: Coragem#2286 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: mudin#3083 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: idalmirsantanabitcon#3953 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: ranover#4327 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: KRIZIA#5437 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ~_~ <𝓢𝓐𝓓 𝓝𝓲𝓷𝓳𝓪> ~_~#1307 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: milton#1448 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ImStudly_#1017 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: jhon.#3333 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: QueimandoGelo#8290 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: SultraKiller#3429 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: 0680#9810 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: francisco#9224 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: Tainá#7593 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ༒Yashiro Chan༒#2453 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Rakan_aleatório#7558 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: S u p r e m e#9747 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Hardware#1177 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: maconha#2322 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Diablorr fdckkkk#5778 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ❄Sunflower❄#2580 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ~kurapika supremacy🛐#0683 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: COMEDOR DE CASADA✓⁶⁶⁶#6641 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Yoookiz#5228 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: !    мg 🌸 ઝ૯t ᴀ ᴜɴɪᴄᴀ 桜#9024 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: !    😊😇_chocolate_🌷🍂#3676 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ik_bad_boy#1600 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: 🍖HARUKA🍖#3487 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ✟Alucard#5622 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: yui#4680 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: kyo~🖤#7904 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: *Hiro-016*#3696 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Solari#2101 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: LoLih♡#1050 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: mayu#3763 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: mayuzinhashxxbi#5293 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: guga2021#1522 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: UM TAPA NA GOSTOSA😎🤏#6763 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: JOÃO⁸⁸⁸#0906 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: !   S U R T A D A ✨#5306 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: STRAIKR#3689 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: PaulaFrancinete#8739 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: PEREIRA XL#4854 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: ! FrIa E cAlCuLiStA#7006 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ⧜𝐘𝐮𝑛𝑜￫#5416 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: WalkerX#3332 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Membro: ✰_.𝕜𝕒𝕟𝕟𝕒._✰#9465 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: zGetzinho#2446 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Billie Joe#5638 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: pdrleite#6050 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ! luluri#8955 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: C-Kira#6523 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Lobin Fake#1550 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: yVitorr_#5999 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Membro: Loli do Hery#8653 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: •☆°☪.⋆ 𝐿𝓊𝒸𝓎_𝒜𝒷𝒶𝓁𝒶𝒹𝒶 ⋆.☪°☆•#0705 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ! maira ¹⁹⁰⁰ ˢᶦⁿᵃˡᵒᵃ ✟#9348 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: ᴹᴬᴺᵀᴱᴹ𝓝𝓐𝓡 ᴮᴷ#0157 Registrado. Servidor: 𝙽𝚘𝚛𝚝𝚑  𝙿𝚕𝚊𝚢𝚎𝚛𝚜 ID: 721253448800010321 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro ao enviar mensagem para o channel de log:  TypeError: Cannot read property 'user' of null
+    at Client.<anonymous> (E:\DiscordBot\Mey\app\index.js:233:52)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Membro: bibia#2841 Registrado. Servidor: HAHAHA ID: 736351411209502741 Owner: null
+Membro: Amanda#5664 Registrado. Servidor: HAHAHA ID: 736351411209502741 Owner: <@!735210588761882715>
+Membro: DaimonJo#3405 Registrado. Servidor: Família Crönner ID: 765371092746371092 Owner: <@282540776259452929>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Beta#3378 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: villardi#0676 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: homelander#1602 Registrado. Servidor: HAHAHA ID: 736351411209502741 Owner: <@!735210588761882715>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: SPÊED#3826 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: Oliveira_isap#1225 Registrado. Servidor: Família Crönner ID: 765371092746371092 Owner: <@282540776259452929>
+Membro: CHEFA (Eshiley)#5867 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: JULIANA#0510 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Andros#8218 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ⚡Eot⚡#0001 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Pedrinho ^-^#8992 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: maxgomesdasilva#1947 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: Loma#5475 Registrado. Servidor: Kita ID: 756342551233167413 Owner: <@!417852312531501077>
+Erro ao enviar mensagem para o channel de log:  TypeError: Cannot read property 'user' of null
+    at Client.<anonymous> (E:\DiscordBot\Mey\app\index.js:233:52)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Membro: ! Paganimᵈˡˡ#7079 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: null
+Membro: pato de skate#6117 Registrado. Servidor: {CBL} Clã Black Light ID: 750883991309123606 Owner: <@568184624375791646>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Sagramor#1188 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Tjota#1678 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: ShansVoid#6118 Registrado. Servidor: DEIXA O BOT TRABALHAR ADM KKKKKK ID: 750883991309123606 Owner: <@568184624375791646>
+Membro: Valiati#2607 Registrado. Servidor: DEIXA O BOT TRABALHAR ADM KKKKKK ID: 750883991309123606 Owner: <@568184624375791646>
+Membro: laurinha#4906 Registrado. Servidor: HAHAHA ID: 736351411209502741 Owner: <@!735210588761882715>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: !                   vonsqui#6797 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Membro: random2600#2876 Registrado. Servidor: DEIXA O BOT TRABALHAR ADM KKKKKK ID: 750883991309123606 Owner: <@568184624375791646>
+Membro: Miles Morales(com mascara)#5164 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Gaymer#6601 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Neyragrat#2140 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Gizmo#0829 Registrado. Servidor: Devil Pleasures bar ID: 722978884458643478 Owner: <@!709468278728294410>
+Membro: 𝕊𝕊 » Zeker#2277 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: samira_gomes_s#0798 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ATLETA#4741 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: raffouken#9797 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: lailai#8229 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: eligia#5618 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: sEnTaRãO_MoTwO9#1195 Registrado. Servidor: DEIXA O BOT TRABALHAR ADM KKKKKK ID: 750883991309123606 Owner: <@568184624375791646>
+Membro: adiltonjose40#5031 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Thomaz EduUu#9033 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: ErickTrigueiro#9721 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Amargura#1319 Registrado. Servidor: Juntos e ShallowNow ID: 658882173004152862 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: colbie#1517 Registrado. Servidor: Juntos e ShallowNow ID: 658882173004152862 Owner: null
+Membro: El legendary#7086 Registrado. Servidor: 𝙽𝚘𝚛𝚝𝚑  𝙿𝚕𝚊𝚢𝚎𝚛𝚜 ID: 721253448800010321 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ! ☁๖ۣۜKanna-san☁☪мℓᴸᴹムмg 🌸#0666 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: akashic#9367 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: isaaah#3329 Registrado. Servidor: Astaroth ID: 680210625749712919 Owner: <@665266202100105219>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Renzin☂#1786 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: N A N D I N N996#7069 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: Wede ツ#6087 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: davijesus#9968 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ℬ𝒶𝒷𝓎#3685 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: FLU     HiagoX......#0155 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: ryogamesbr#7032 Registrado. Servidor: DEIXA O BOT TRABALHAR ADM KKKKKK ID: 750883991309123606 Owner: <@568184624375791646>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: R7#7710 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: jds#9621 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: !  Batatan#7535 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: Haimas lodbrok#4403 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Enzozicaツ#3043 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: oni chan#7316 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: rian#1892 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Batatinha#0001 Registrado. Servidor: Astaroth ID: 680210625749712919 Owner: <@665266202100105219>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Allyne#0040 Registrado. Servidor: Família Crönner ID: 765371092746371092 Owner: <@282540776259452929>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Febas#9652 Registrado. Servidor: Astaroth ID: 680210625749712919 Owner: <@665266202100105219>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Aviso#7858 Registrado. Servidor: 𝙽𝚘𝚛𝚝𝚑  𝙿𝚕𝚊𝚢𝚎𝚛𝚜 ID: 721253448800010321 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Naomi#3077 Registrado. Servidor: 𝙽𝚘𝚛𝚝𝚑  𝙿𝚕𝚊𝚢𝚎𝚛𝚜 ID: 721253448800010321 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: g o vana#1004 Registrado. Servidor: 𝙽𝚘𝚛𝚝𝚑  𝙿𝚕𝚊𝚢𝚎𝚛𝚜 ID: 721253448800010321 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: soudepressor#6477 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Lawliet#3744 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: yuri novaes#5865 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: 🍌banonese🍌#4431 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: pierrynlima#0422 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Pocahontas#9930 Registrado. Servidor: PapaiBug ID: 514591855967731722 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: gnomo ❄🌲🎅#6781 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: Saroca#4337 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Beijador Da rainha J#2317 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: anônimo#6986 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Falido_#2134 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: <@!716773243255521315>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: sdfdgn#5375 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: Kazumi.#4098 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: !            Venon  sad#0025 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: biosfera#6208 Registrado. Servidor: Devil Pleasures bar ID: 722978884458643478 Owner: <@!709468278728294410>
+Membro: Vnzin#2384 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: avestruz que te seduz#5270 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: Vart#0604 Registrado. Servidor: Algum lugar na interwebs ID: 559106569262989342 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: I'm sɑd 𖤓#2103 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Rootz#4457 Registrado. Servidor: Devil Pleasures bar ID: 722978884458643478 Owner: <@!709468278728294410>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ™ pamela#6352 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: Pandora#5128 Registrado. Servidor: 𝙽𝚘𝚛𝚝𝚑  𝙿𝚕𝚊𝚢𝚎𝚛𝚜 ID: 721253448800010321 Owner: <@!164750507909447680>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Mog#0003 Registrado. Servidor: Astaroth ID: 680210625749712919 Owner: <@785383384913936435>
+Membro: XáXá#2748 Registrado. Servidor: 𝕺𝖘 𝕮𝖗𝖎𝖆   ✝ ID: 673262387448643590 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: matheus André#2689 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: stonks#3544 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: stonks#9772 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Membro: eicauavictor#0616 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: シ                   𝐻𝑖𝑟𝑜-𝒌𝒖𝒏♡#1951 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: silas#6478 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro no contador Add:  TypeError: Cannot read property 'replace' of null
+    at Client.<anonymous> (E:\DiscordBot\Mey\app\index.js:499:31)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Membro: Nicofit#4727 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: XZOM#2322 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: kleber#8756 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: 𝕳𝖊𝖑𝖑𝖔 𝕶𝖎𝖙𝖙𝖞#6628 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: amor da sua vida#9807 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: BANDO DE GAY#3411 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ZoeH_#8054 Registrado. Servidor: Sea of Thieves Brasil || Immortals ID: 732004113910333441 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ♥  𝕺𝖋𝖋  ♥#6666 Registrado. Servidor: 𝙽𝚘𝚛𝚝𝚑  𝙿𝚕𝚊𝚢𝚎𝚛𝚜 ID: 721253448800010321 Owner: <@!164750507909447680>
+Membro: Husv#1953 Registrado. Servidor: Família Crönner ID: 765371092746371092 Owner: <@282540776259452929>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro ao enviar mensagem para o channel de log:  TypeError: Cannot read property 'user' of null
+    at Client.<anonymous> (E:\DiscordBot\Mey\app\index.js:233:52)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Membro: geek.se#9145 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: C o 0 k i e ™#9719 Registrado. Servidor: ✨🥀casinha🌹✨ ID: 780792278410461224 Owner: <@703985937222336614>
+Membro: 𝒮𝑜𝓈𝑜 𝒴𝑒𝓎#8393 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+Membro: ⭐𝙷𝙰𝙿𝙿𝚈⭐#3323 Registrado. Servidor: ✨🥀casinha🌹✨ ID: 780792278410461224 Owner: <@703985937222336614>
+Membro: ♡･𝑆𝑒𝑛𝑘𝑜-𝑆𝑎𝑛･♡#3927 Registrado. Servidor: ✨🥀casinha🌹✨ ID: 780792278410461224 Owner: <@703985937222336614>
+Membro: SxnnyR🐊✨#8862 Registrado. Servidor: ✨🥀casinha🌹✨ ID: 780792278410461224 Owner: <@703985937222336614>
+Membro: ☃Gabrielzin🎄#8726 Registrado. Servidor: ✨🥀casinha🌹✨ ID: 780792278410461224 Owner: <@703985937222336614>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Felipe Silva#7872 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: 🌸𝚒𝚣𝚞𝚗𝚊🌸#6255 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: vanessabjs#9497 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Membro: Marmitinha#5827 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ #300 ID: 737843046606962730 Owner: null

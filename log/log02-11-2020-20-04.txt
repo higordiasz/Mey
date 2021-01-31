@@ -1,0 +1,44 @@
+Your app is listening on port 64914
+[32m ―――――――――――――――――― Mey ――――――――――――――――――
+[37m Mey Conectou com sucesso no Discord!
+[32m ―――――――――――――――――― Mey ――――――――――――――――――
+[32m Nome do Bot: Mey
+[32m Tag do Bot: 7906
+[32m Bot ID: 735452795343208458
+[32m Servidores: 43
+[32m Membros: 13
+[32m Canais: 1420
+[32m Criado em: 2020-07-22T11:06:50.462Z
+[32m Status: online
+Membro: Vinicius Campelo#7541 Registrado. Servidor: Chupingas ID: 334732536611602432 Owner: <@!193395521019314177>
+Membro: Wiese#6756 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: oZark'nk#1000 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: cacacacacacac#9347 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: erik carr#0469 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: Davi o Duelista#5727 Registrado. Servidor: Kita ID: 756342551233167413 Owner: <@417852312531501077>
+Membro: KoeeBB#1359 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: Dias1869#8199 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: ♰ 𝑳𝑻 Blackxszkkj'🚩#0021 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ ID: 737843046606962730 Owner: <@!716773243255521315>
+Membro: Prevenido#9578 Registrado. Servidor: IMVU ID: 723579843546972171 Owner: <@282540776259452929>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro: ReferenceError: err is not defined
+Membro: BLOOD#8022 Registrado. Servidor: ᴅʀɪʟʟɪɴɢ | ᴅʟʟ ID: 737843046606962730 Owner: <@!716773243255521315>
+Membro: Karolina#8217 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: GabrielFarage#5484 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Dhemisson#5934 Registrado. Servidor: Família Crönner ID: 765371092746371092 Owner: <@282540776259452929>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: lola34555#7192 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: shaman#4836 Registrado. Servidor: Kita ID: 756342551233167413 Owner: <@417852312531501077>
+Membro: Raffael#0203 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: DAVI333#8640 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: hyurisilvaa#0998 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: !нк Rapzes#5739 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined

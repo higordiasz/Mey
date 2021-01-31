@@ -1,0 +1,29 @@
+Your app is listening on port 58911
+[32m ―――――――――――――――――― Mey ――――――――――――――――――
+[37m Mey Conectou com sucesso no Discord!
+[32m ―――――――――――――――――― Mey ――――――――――――――――――
+[32m Nome do Bot: Mey
+[32m Tag do Bot: 7906
+[32m Bot ID: 735452795343208458
+[32m Servidores: 50
+[32m Membros: 20
+[32m Canais: 1582
+[32m Criado em: 2020-07-22T11:06:50.462Z
+[32m Status: online
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Thais#0661 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: kkssvt#2831 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: Débora#6358 Registrado. Servidor: Família Crönner ID: 765371092746371092 Owner: null
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Dailys#2691 Registrado. Servidor: 《Raivosos》 ID: 561011451117043722 Owner: <@!410742786233729025>
+matei
+Erro memberjoin: ReferenceError: cargo is not defined
+matei
+Membro: priscilappurple#5514 Registrado. Servidor: HRMoney - Comunidade Oficial ID: 757655035076411518 Owner: <@414281522938511370>
+Erro memberjoin: ReferenceError: cargo is not defined

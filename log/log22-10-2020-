@@ -1,0 +1,35 @@
+Your app is listening on port 54607
+[32m ―――――――――――――――――― Mey ――――――――――――――――――
+[37m Mey Conectou com sucesso no Discord!
+[32m ―――――――――――――――――― Mey ――――――――――――――――――
+[32m Nome do Bot: Mey
+[32m Tag do Bot: 7906
+[32m Bot ID: 735452795343208458
+[32m Servidores: 43
+[32m Membros: 2031
+[32m Canais: 1498
+[32m Criado em: 2020-07-22T11:06:50.462Z
+[32m Status: online
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: Reidelas#6533 Registrado. Servidor: ★ Brasil Vida de Magnata - Oficial ★ ID: 735263713023623221 Owner: <@357204933109481475>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: djchato#4846 Registrado. Servidor: HRMoney ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: noobmermo#0995 Registrado. Servidor: HRMoney ID: 757655035076411518 Owner: <@414281522938511370>
+Membro: Deus Ex#4930 Registrado. Servidor: Schiavon's House ID: 631117786206437435 Owner: <@249955734958243840>
+Membro: ! preguiça#5726 Registrado. Servidor: Astaroth ID: 680210625749712919 Owner: <@665266202100105219>
+Erro memberjoin: ReferenceError: cargo is not defined
+Erro no contador Add:  TypeError: Cannot read property 'replace' of null
+    at Client.<anonymous> (E:\DiscordBot\Mey\app\index.js:454:31)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+DiscordAPIError: Invalid Form Body
+emoji_id: Value "768285012956676096>" is not snowflake.
+    at RequestHandler.execute (E:\DiscordBot\Mey\app\node_modules\discord.js\src\rest\RequestHandler.js:170:25)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5) {
+  method: 'put',
+  path: '/channels/631125150284251136/messages/768954194711150653/reactions/%3C%3Arikkaow%3A768285012956676096%3E/@me',
+  code: 50035,
+  httpStatus: 400
+}
+Membro: The Alex Andre#0437 Registrado. Servidor: 3 jogadores demais ID: 643178075659698186 Owner: <@!396373330455822337>

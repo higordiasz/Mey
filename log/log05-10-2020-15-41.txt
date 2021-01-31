@@ -1,0 +1,16 @@
+Your app is listening on port 61471
+[32m ―――――――――――――――――― Mey ――――――――――――――――――
+[37m Mey Conectou com sucesso no Discord!
+[32m ―――――――――――――――――― Mey ――――――――――――――――――
+[32m Nome do Bot: Mey
+[32m Tag do Bot: 7906
+[32m Bot ID: 735452795343208458
+[32m Servidores: 40
+[32m Membros: 1857
+[32m Canais: 1382
+[32m Criado em: 2020-07-22T11:06:50.462Z
+[32m Status: online
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: CTX2D#8246 Registrado. Servidor: PapaiBug ID: 514591855967731722 Owner: <@412719047558430721>
+Erro memberjoin: ReferenceError: cargo is not defined
+Membro: MT Reges#6538 Registrado. Servidor: 🚀The Lost Paradise💸 #FicaEmCasa ID: 746556100991778897 Owner: <@!702638598314393720>
