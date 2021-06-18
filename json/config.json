@@ -1,13 +1,13 @@
 {
     "PREFIX": "!",
     "url_bj": "https://image.freepik.com/vetores-gratis/logotipo-do-blackjack-com-fita-verde-e-sobre-um-fundo-verde-isolado-jogo-de-cartas-jogo-de-cassino_193165-1.jpg",
-    "apiKey": "643afbc995c894f60f35aacd01ddb963&",
+    "apiKey": "",
     "channelprincipal": "753827298897035344",
-    "YOUTUBE_API_KEY": "AIzaSyDpIhgKW_j4F9toAnfgLbnACPOgdyCTMrY",
+    "YOUTUBE_API_KEY": "",
     "QUEUE_LIMIT": 0,
     "COLOR": "RED",
     "OWNER": "414281522938511370",
     "OWNER2": "357204933109481475",
     "DIF": "0.3",
-    "DATABASE":"mongodb+srv://atlanticcity:UxjCBZmR2tNYovph@cluster0.vflmx.mongodb.net/atlanticcity?retryWrites=true&w=majority"
+    "DATABASE":""
 }
