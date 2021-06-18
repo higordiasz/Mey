@@ -1,8 +1,4 @@
-### (i)NEI-MUSIC REPO IS AVAILABLE AT GITHUB NOW!
-[Tap here to go to Our GitHub Repo!](https://github.com/nekunei/nei-music)
-
-![nei-music](https://cdn.glitch.com/1a3dfe50-5648-4538-9499-d5a39ac7b798%2FUntitled71_20200720095138.png?v=1595213533503)
-> Play your Cool Song at This bot. Free for remix...
+### Mey - Bot Discord
 
 ## Requirements
 
@@ -19,20 +15,11 @@ npm i
 
 ## Configuration
 
-Go to .env File and fill out the values:
-
-```json
-TOKEN=
-YOUTUBE_API_KEY=
-SOUNDCLOUD_CLIENT_ID=
-MAX_PLAYLIST_SIZE=10
-PREFIX=!
-DOMAIN=
-```
+Go to json/token.json and put your token
 
 ## Features & Commands
 
-> Note: The default prefix is '!'
+> Note: The default prefix is '!', to modific go in json/config.json
 
 * 🎶 Play music from YouTube via url
   * `!play https://www.youtube.com/watch?v=GLvohMXgcBo`
@@ -51,26 +38,3 @@ DOMAIN=
 * Skip (!skip)
 * Toggle pruning of bot messages (!pruning)
 * Help (!help)
-
-## Credits
-Big Thanks to [__Eritislami__](https://github.com/eritislami) For the Repos.
-
-Improved & Modified by [__@yDevs__](https://glitch.com/@yDevs)
-
-Support Our <a href="https://discord.gg/VKJ6f7v">Discord Server</a>
-# ChangeLog
-* 1.2.1
- * Some Fancy updates
-* 1.2.0 
- * Added:
-   - Soundcloud Support
-   - Search Command
-   - Lyrics Command 
-   - Remove command
-   - SkipTo Command
-   - NowPlaying Command
-   - And Few Some Cool command Added!
-   - Bug Fixes
-
-* 1.1.2 
-  * Making .env For Securing Your TOKEN.

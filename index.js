@@ -1,5 +1,6 @@
 const express = require('express');
 const app = express();
+const mongoose = require('mongoose');
 const db = require("quick.db");
 const config = require('./json/config.json')
 const token = require('./json/token.json')
@@ -23,6 +24,42 @@ const listener = app.listen(process.env.PORT, () => {
   console.log("Your app is listening on port " + listener.address().port);
 });
 
+//Database MongoDB
+
+const VDM = require('./models/vdm');
+const RDM = require('./models/rdm');
+const SAFEZ = require('./models/safez');
+const POWER = require('./models/power');
+const COMBATL = require('./models/combatl');
+const AMV = require('./models/amv');
+const META = require('./models/meta');
+const ALEATORIOONE = require('./models/aleatorio1');
+const ALEATORIOTWO = require('./models/aleatorio2');
+const ALEATORIOTHREE = require('./models/aleatorio3');
+const WL = require('./models/wl');
+
+mongoose.connect(config.DATABASE, {
+  useUnifiedTopology: true,
+  useFindAndModify: true,
+  useNewUrlParser: true,
+  useCreateIndex: true
+});
+
+const db2 = mongoose.connection;
+
+db2.on('connected', () => {
+  console.log('Mongoose default connection is open');
+});
+
+db2.on('error', err => {
+  console.log(`Mongoose default connection has occured \n${err}`);
+});
+
+db2.on('disconnected', () => {
+  console.log('Mongoose default connection is disconnected');
+});
+
+//----**----
 require("./uptimer.js");
 const pe = process.env
 if (!pe.TOKEN) return console.log("Oops! You aren't put your Bots Token! \nTry again later!");
@@ -112,16 +149,16 @@ client.on('ready', () => {
   ]
 
   const activities = [
-    ["🥰 Eu sou a Mey, é um prazer!", `WATCHING`],
-    ["🌈 Digite m.ajuda ou m.help para obter minha lista de comandos! ", "PLAYING"],
-    ["💖 Desenvolvida por Jon & Dias!  >w<", "WATCHING"],
-    [`🍮 Estou em ${client.guilds.cache.size} servidores, trazendo diversão e suporte!`, "LISTENING"],
-    [`🍧 Levando alegria e felicidade para ${client.users.cache.size} usuários  <3.`, "LISTENING"],
-    [`🌸 Digite m.link para poder me colocar no seu servidor!  Niko Niko NII! >w<`, "WATCHING"],
-    [`🦄 Você sabia que eu tenho minha própria Mansão? Digite m.discord e entre na minha Mansão.`, "LISTENING"],
-    [`🧸 Você sabia que eu sou apaixonada por 🍕? Vamo ser amiguinhos(as) e lanchar juntos? >w<`, "PLAYING"]]//bot adicionar quantos quiser :V
+    ["🥰 Atlantic City RP!", `WATCHING`],
+    ["🌈 Atlantic City RP! ", "PLAYING"],
+    ["💖 Atlantic City RP!", "WATCHING"],
+    [`🍮 Atlantic City RP!`, "LISTENING"],
+    [`🍧 Atlantic City RP!`, "LISTENING"],
+    [`🌸 Atlantic City RP!`, "WATCHING"],
+    [`🦄 Atlantic City RP!`, "LISTENING"],
+    [`🧸 Atlantic City RP!`, "PLAYING"]]
 
-  setInterval(async () => { // controlar o intervalo
+  setInterval(async () => { 
     let i = Math.floor(Math.random() * activities.length + 1) - 1
     await client.user.setActivity(activities[i][0], { type: activities[i][1] });
   }, 10000); // intervalo
@@ -130,14 +167,14 @@ client.on('ready', () => {
     let b = Math.floor(Math.random() * status.length + 1) - 1
     await client.user.setStatus(status[b])
   }, 20000)
-
+/*
   setInterval(async () => {
     let c = Math.floor(Math.random() * avatares.length + 1) - 1
     await client.user.setAvatar(avatares[c])
   }, 400000)
-
+*/
 });
-
+/*
 client.on('ready', async () => {
   try {
     let logChannel = await client.channels.fetch(config.channelprincipal);
@@ -160,7 +197,7 @@ client.on('ready', async () => {
     console.log('Erro ao enviar mensagem de login! - ' + err)
   }
 })
-
+*/
 client.on("warn", (info) => console.log(info));
 client.on("error", console.error);
 
@@ -183,6 +220,7 @@ CarregarComandos('level')
 CarregarComandos('voice')
 CarregarComandos('social')
 CarregarComandos('rpg')
+CarregarComandos('atlanticrp')
 
 client.on("message", async (message) => {
   if (message.author.bot) return;
@@ -224,7 +262,7 @@ client.on("message", async (message) => {
     }
   }
 });
-
+/*
 client.on('guildCreate', async guild => {
   try {
     let channel = await client.channels.fetch(config.channelprincipal);
@@ -254,7 +292,7 @@ client.on('guildDelete', async guild => {
     console.log('Erro ao enviar mensagem para o channel de log: ', err)
   }
 })
-
+*/
 client.on('voiceStateUpdate', (oldState, newState) => {
 
   if (db.get(`config_${oldState.guild.id}.voice`) == true) {
@@ -361,6 +399,7 @@ client.on('guildMemberAdd', async membro => {
           .setColor(config.COLOR)
           .setDescription(`${membro.user}, seja bem-vindo(a) ao servidor.\nContamos agora com ${membro.guild.memberCount} membros no servidor.`)
           .setTimestamp()
+		  .setImage('https://i.imgur.com/eg8SH5P.gif')
           .setThumbnail(avatar)
           .setFooter('Bem-vindo ao Servidor.')
           .setAuthor(membro.user.tag, avatar);
@@ -376,6 +415,7 @@ client.on('guildMemberAdd', async membro => {
           .setDescription(`${membro.user}, seja bem-vindo(a) ao servidor.\nContamos agora com ${membro.guild.memberCount} membros no servidor.`)
           .setTimestamp()
           .setThumbnail(avatar)
+		  .setImage('https://i.imgur.com/eg8SH5P.gif')
           .setFooter('Bem-vindo ao Servidor.')
           .setAuthor(membro.user.tag, avatar);
 
@@ -403,6 +443,7 @@ client.on('guildMemberRemove', async membro => {
       .setColor(config.COLOR)
       .setDescription(`${membro.user.tag} acaba de nos deixar.\nContamos agora com ${membro.guild.memberCount} membros no servidor.`)
       .setTimestamp()
+	  .setImage('https://i.imgur.com/eg8SH5P.gif')
       .setThumbnail(avatar)
       .setFooter('Nos vemos numa próxima vez.')
       .setAuthor(membro.user.tag, avatar);
@@ -575,6 +616,7 @@ client.on('messageReactionRemove', (reaction, user) => {
   }
 })
 
+//"TOKEN": "NzM1NDUyNzk1MzQzMjA4NDU4.Xxgdyg.itdqGsLduBaVvlz0oT8S3EqpY-4"
 client.on('message', msg => {
   try {
     if (msg.author.bot) return;

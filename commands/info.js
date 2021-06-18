@@ -53,7 +53,7 @@ module.exports = {
                 },
                 {
                     name: "♥ Relacionamento",
-                    value: `${relacionamento.username}`,
+                    value: relacionamento.username != null ? `${relacionamento.username}` : "Solteiro",
                 },
                 {
                     name: "🟢 Status atual: ",

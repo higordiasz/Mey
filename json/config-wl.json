@@ -1,0 +1,23 @@
+{
+    "COLOR": "RED",
+    "OWNER": "414281522938511370",
+    "PORCENT": 70,
+    "EPORCENT": 5,
+    "prefix": "!",
+    "adv1": "",
+    "adv2": "",
+    "adv3": "",
+    "advv": "",
+    "rwl": "742451983771893835",
+    "rgeral": "742451983771893836",
+    "cadmin": "761407477342273536",
+    "rpolicia": "742451983771893833",
+    "rilegar": "742451983771893834",
+    "rhospital": "742451983771893832",
+    "rjuridico": "839795745485750282",
+    "rmecanica": "839796394755358740",
+    "mongoDB": "mongodb+srv://atlanticcity:UxjCBZmR2tNYovph@cluster0.vflmx.mongodb.net/atlanticcity?retryWrites=true&w=majority",
+    "wlCategoria": "742451984065364000",
+    "wlChannel": "742451984065364001",
+    "wlRole":"742451983683682464"
+}
