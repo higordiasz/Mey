@@ -16,7 +16,7 @@
     "rhospital": "742451983771893832",
     "rjuridico": "839795745485750282",
     "rmecanica": "839796394755358740",
-    "mongoDB": "mongodb+srv://atlanticcity:UxjCBZmR2tNYovph@cluster0.vflmx.mongodb.net/atlanticcity?retryWrites=true&w=majority",
+    "mongoDB": "",
     "wlCategoria": "742451984065364000",
     "wlChannel": "742451984065364001",
     "wlRole":"742451983683682464"
