@@ -8,23 +8,12 @@ const moment = require('moment')
 const alexa = require('alexa-bot-api')
 var chatbot = new alexa('aw2plm')
 process.env.TOKEN = token.TOKEN
-//process.env.YOUTUBE_API_KEY = "AIzaSyDpIhgKW_j4F9toAnfgLbnACPOgdyCTMrY"
 process.env.YOUTUBE_API_KEY = config.YOUTUBE_API_KEY
 process.env.PREFIX = config.PREFIX
-/*
-app.get("/", (request, response) => {
-  response.sendFile(__dirname + "/index.html");
-});
-app.get("/thanks", (request, response) => {
-  response.sendfile(__dirname + "/t.html");
-});
-*/
-//listener
+
 const listener = app.listen(process.env.PORT, () => {
   console.log("Your app is listening on port " + listener.address().port);
 });
-
-//Database MongoDB
 
 const VDM = require('./models/vdm');
 const RDM = require('./models/rdm');
@@ -65,9 +54,7 @@ const pe = process.env
 if (!pe.TOKEN) return console.log("Oops! You aren't put your Bots Token! \nTry again later!");
 if (!pe.YOUTUBE_API_KEY) console.log("Oops! You aren't Insert Youtube API Key! \n\nYou can only play songs from youtube by sending Links Only!\nLearn How to get Youtube API key at: https://youtu.be/WUwzx46KxjM");
 if (!pe.PREFIX) return console.log("You aren't Insert Your bot Prefix! Please Insert it!");
-/**
- * Module Imports
- */
+
 const { Client, Collection } = require("discord.js");
 const Discord = require('discord.js')
 const { readdirSync } = require("fs");
@@ -85,42 +72,6 @@ client.prefix = PREFIX;
 client.queue = new Map();
 const cooldowns = new Collection();
 
-/**
- * Client Events
- 
-client.on("ready", () => {
-  function randomStatus() {
-    let status = ["🔨 Creator Wiul", "🥰 Niko Niko NII", "💖 Music", "🔔 klhelp for commands!", "🌺 Klaarrrck! >.<", "☀️ Haaaaappy"]
-    let rstatus = Math.floor(Math.random() * status.length);
-
-    // client.user.setActivity(status[rstatus], {type: "WATCHING"}); 
-    // You can change the "WATCHING" into STREAMING, LISTENING, and PLAYING.
-    // Example: streaming
-
-    client.user.setActivity(status[rstatus], { type: "STREAMING", url: "https://www.twitch.tv/jonzinhuu_" });
-  }; setInterval(randomStatus, 10000) // Time in ms. 30000ms = 30 seconds. Min: 20 seconds, to avoid ratelimit.
-
-  console.log('Estou Online.')
-})
-
-client.on('ready', () => {
-  console.log(`Bot foi iniciado com sucesso`);
-
-  var tabela = [
-    { name: `🤖Utilize ${config.PREFIX}ajuda para obter meus comandos, >w<!`, type: 'PLAYING' },
-    { name: '💻Desenvolvida carinhosamente por Dias e Jon >w<', type: 'STREAMING', url: 'https://twitch.tv/jonzinhuu_' },
-    { name: `🤖Use ${config.PREFIX}link e poderei entrar em seu servidor!.`, type: 'LISTENING' },
-    { name: '😍Vamos ser amiguinhos(as)?', type: 'STREAMING', url: 'https://twitch.tv/jonzinhuu_' },
-    { name: '✨Eu sou a Mey, prazer! >.<', type: 'WATCHING' }
-  ];
-  function setStatus() {
-    var altstatus = tabela[Math.floor(Math.random() * tabela.length)]
-    client.user.setActivity(altstatus)
-  }
-  setStatus();
-  setInterval(() => setStatus(), 20000)
-});
-*/
 client.on('ready', () => {
   console.log(`\u001b[32m`, `―――――――――――――――――― Mey ――――――――――――――――――`)
   console.log(`\u001b[37m`, `${client.user.username} Conectou com sucesso no Discord!`)
@@ -167,43 +118,8 @@ client.on('ready', () => {
     let b = Math.floor(Math.random() * status.length + 1) - 1
     await client.user.setStatus(status[b])
   }, 20000)
-/*
-  setInterval(async () => {
-    let c = Math.floor(Math.random() * avatares.length + 1) - 1
-    await client.user.setAvatar(avatares[c])
-  }, 400000)
-*/
 });
-/*
-client.on('ready', async () => {
-  try {
-    let logChannel = await client.channels.fetch(config.channelprincipal);
-    let count = 0;
-    client.guilds.cache.forEach(function (data, index) {
-      count += data.memberCount
-    })
-    let guilds = client.guilds.cache.size
-    let embed = new Discord.MessageEmbed()
-      .setAuthor(client.user.tag, client.user.displayAvatarURL({ dynamic: true }))
-      .setColor(config.COLOR)
-      .setDescription(`**Acabo de ficar online!**`)
-      .addFields(
-        { name: `Servidores`, value: `${guilds}`, inline: true },
-        { name: `Usuarios`, value: `${count}`, inline: true }
-      )
-      .setThumbnail(client.user.displayAvatarURL({ format: 'png' }))
-    logChannel.send(embed)
-  } catch (err) {
-    console.log('Erro ao enviar mensagem de login! - ' + err)
-  }
-})
-*/
-client.on("warn", (info) => console.log(info));
-client.on("error", console.error);
 
-/**
- * Import all commands
- */
 function CarregarComandos(diretorio) {
   const commandFiles = readdirSync(join(__dirname, diretorio)).filter((file) => file.endsWith(".js"));
   for (const file of commandFiles) {
@@ -262,53 +178,13 @@ client.on("message", async (message) => {
     }
   }
 });
-/*
-client.on('guildCreate', async guild => {
-  try {
-    let channel = await client.channels.fetch(config.channelprincipal);
-    let embed = new Discord.MessageEmbed()
-      .setTitle(`**Me Adicionaram!**`)
-      .setDescription(`Proprietario: ${guild.owner.user.tag}\nRegião: ${guild.region}\n Membros: ${guild.memberCount}\n Criado em: ${moment(guild.createdAt).format('LLL')}`)
-      .setColor('#ff0000')
-      .setThumbnail(client.user.displayAvatarURL({ format: 'png' }))
-      .setAuthor(client.user.tag, client.user.displayAvatarURL({ format: 'png' }))
-    channel.send(`\`${guild.name} [${guild.id}]\``, embed)
-  } catch (err) {
-    console.log('Erro ao enviar mensagem para o channel de log: ', err)
-  }
-})
 
-client.on('guildDelete', async guild => {
-  try {
-    let channel = await client.channels.fetch(config.channelprincipal);
-    let embed = new Discord.MessageEmbed()
-      .setTitle(`**Me Removeram!**`)
-      .setDescription(`Proprietario: ${guild.owner.user.tag}\nRegião: ${guild.region}\n Membros: ${guild.memberCount}\n Criado em: ${moment(guild.createdAt).format('LLL')}`)
-      .setColor('#ff0000')
-      .setThumbnail(client.user.displayAvatarURL({ format: 'png' }))
-      .setAuthor(client.user.tag, client.user.displayAvatarURL({ format: 'png' }))
-    channel.send(`\`${guild.name} [${guild.id}]\``, embed)
-  } catch (err) {
-    console.log('Erro ao enviar mensagem para o channel de log: ', err)
-  }
-})
-*/
 client.on('voiceStateUpdate', (oldState, newState) => {
 
   if (db.get(`config_${oldState.guild.id}.voice`) == true) {
     let user = client.users.cache.find(user => user.id == newState.id)
     if (user.bot) return;
     if ((oldState.channelID == null) && (newState.channelID != null)) {
-      /*
-      let timer = function (ms) {
-        return new Promise(resolve => setTimeout(resolve, ms));
-      }
-      var x = new moment()
-      await timer(20000)
-      var y = new moment()
-      var duration = moment.duration(y.diff(x))
-      console.log(duration)
-      */
       db.set(`voice_${newState.guild.id}.voice.${user.id}.entrada`, new moment())
     } else {
       if ((newState.channelID == null) && (oldState.channelID != null)) {
