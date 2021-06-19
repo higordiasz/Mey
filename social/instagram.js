@@ -1,6 +1,6 @@
 const Discord = require('discord.js')
 const Instagram = require('instagram-web-api')
-const insta = new Instagram({ username: 'higordiasz', password: '999446959hdz' })
+const insta = new Instagram({ username: '', password: '' })
 const func = require('../commands/functions')
 
 module.exports = {
