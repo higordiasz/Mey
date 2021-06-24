@@ -13,7 +13,7 @@ npm i
 ```
 
 
-## Configuration
+## Configuração
 
 Go to json/token.json and put your token
 
